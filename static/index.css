@@ -1,0 +1,51 @@
+body{
+    background-color: white;
+    font-family: sans-serif,"consalas";
+}
+h1{
+    font-family: sans-serif;
+    font-weight: bold; 
+    border-style: outset;   
+    border-radius: 2px;
+    border-width: 2px;
+    font-size: 30px;
+    text-align: center;
+    background-color: aliceblue;
+}
+h4{
+    
+    border-style: outset;
+    border-width: 2px;
+    text-align: center;
+    background-color: aliceblue;
+}
+.headers{
+    
+    border-style: outset;
+    border-width: 2px;
+    background-color: aliceblue;
+    
+}
+table{
+    
+    background-color: aliceblue;
+    width: 600;
+    border-style: outset;
+    border-radius: 2px;
+    border-width: 2px;
+}
+a{
+    text-decoration: none;
+    color: black;
+
+}
+P{
+    font-weight: bold;
+}
+footer {
+  background: white;
+  padding: 15px;
+  text-align: center;
+  font-size: 0.9em;
+  border-top: 5px solid black;
+}
