@@ -1,0 +1,28 @@
+body{
+font-family: 'Times New Roman', Times, serif, sans-serif;
+background-color: white;  
+
+}
+h1{
+    text-align: center;
+    
+}
+#contacts{
+    text-decoration: underline;
+    color: black;
+    padding: 525px;
+    
+     
+}
+.sectionheadings{
+    text-align: center;
+    border-top: thick double black;
+    border-bottom:thick double black;
+   
+    
+    
+}
+.grad{
+    margin-left: 40px;
+
+}

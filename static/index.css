@@ -26,13 +26,15 @@ h4{
     background-color: aliceblue;
     
 }
-table{
+th{
     
     background-color: aliceblue;
-    width: 600;
+    width: 200;
     border-style: outset;
     border-radius: 2px;
     border-width: 2px;
+    padding: 60px;
+    font-weight: bold;
 }
 a{
     text-decoration: none;
