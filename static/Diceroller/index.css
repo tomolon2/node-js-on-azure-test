@@ -1,0 +1,28 @@
+#container{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 2rem;
+    font-weight:bold; 
+    
+}
+button{
+    font-size: 1.5rem;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border:none;
+   background-color:teal;
+   color: white;
+   cursor: pointer;
+}
+button:hover{
+    background-color:#669da7;
+}
+button:active{
+    background-color:#669da7;
+}
+input{
+    text-align: center;
+    font-size: 2rem;
+    width: 150px;
+}
+

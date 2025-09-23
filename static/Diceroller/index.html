@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dice Roller</title>
+    <link rel = "stylesheet" href = "index.css">
+</head>
+ 
+<body>
+   <div id ="container">
+       <h2>BEST OF THREE</h2> 
+    
+       <button onclick = "rollDice()"> Roll Dice</button>
+       <button onclick="resetGame()">Reset Game</button>
+
+       
+       <h3 id = "playerTitle"> Player Dice Roll:</h3>
+       <div id = "diceImages"></div>
+       
+       <h3 id ="computerTitle"> Computer Dice Roll:</h3>
+       <div id="computerImages"></div>
+        <h2 id="score">0 : 0</h2>
+        <h1 id="winnerMessage"></h1>
+    </div>
+
+<script src="index.js"></script>
+</body>
+</html>
