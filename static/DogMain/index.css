@@ -1,0 +1,30 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color:white;
+    padding: 20px;
+}
+
+h1 {
+    color:darkslategrey;
+}
+
+select {
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+#photos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+#photos img {
+    max-width: 300px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px black;
+}
