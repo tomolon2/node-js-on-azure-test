@@ -22,10 +22,10 @@ Tom Saji
 
 
 ## Assignments
-- [Introductions](Introductions/index.html)  
-- [Web Resume](Webresume/index.html)  
-- [Dice Roller](Diceroller/index.html)  
-- [DogMain](DogMain/index.html)  
+- [Introductions](https://lionsbearsandtigers-endnhxchbpgahyfk.canadacentral-01.azurewebsites.net/Introductions/index.html)  
+- [Web Resume](https://lionsbearsandtigers-endnhxchbpgahyfk.canadacentral-01.azurewebsites.net/Webresume/index.html)  
+- [Dice Roller](https://lionsbearsandtigers-endnhxchbpgahyfk.canadacentral-01.azurewebsites.net/Diceroller/index.html)  
+- [DogMain](https://lionsbearsandtigers-endnhxchbpgahyfk.canadacentral-01.azurewebsites.net/DogMain/index.html)  
 
 
 
